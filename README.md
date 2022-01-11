@@ -1,2 +1,1 @@
 # YCamera
-# Camera demo
